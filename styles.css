@@ -2,3 +2,15 @@ h1{
 color: rgb(255, 251, 0);
 text-shadow: 2px 3px rgb(30, 56, 255);
 }
+hr{
+color:rgb(30, 56, 255)
+}
+body{
+background-image:url("https://cdn.vox-cdn.com/thumbor/5_AZsrtmp4Dx21aRpgdW5MwSPQ4=/0x0:4129x2753/1400x1050/filters:focal(0x0:4129x2753):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/49023565/usa-today-8887948.0.jpg")
+}
+p{
+ background-color: rgb(237, 237, 155);  
+}
+ul{
+background-color:rgb(237, 237, 155);    
+}
